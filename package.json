@@ -1,0 +1,20 @@
+{
+  "name": "serviceSoapGetComint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "easy-soap-request": "^4.1.3",
+    "log4js": "^6.3.0",
+    "node-jt400": "^4.1.0",
+    "node-stringbuilder": "^2.2.6",
+    "properties-reader": "^2.2.0",
+    "xml2json": "^0.12.0"
+  }
+}
